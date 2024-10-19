@@ -119,7 +119,7 @@ A simple GUI is built using `tkinter`. Users can enter a review, choose between 
 
 #### RNN Performance Graphs:
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 ---
 
@@ -148,4 +148,4 @@ A simple GUI is built using `tkinter`. Users can enter a review, choose between 
 
 #### LSTM Performance Graphs:
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
